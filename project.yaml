@@ -1,5 +1,5 @@
 basic:
-    name: 'Kiley Kessler'
+    name: 'Mrs. Lessie Beahan'
     breakpoints:
         - 640
         - 1024
@@ -22,9 +22,14 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: ''
+    sensitivity: 15
+    night_mode: ''
+    retina_images: ''
     performance:
         workers_production: 30
         workers_nonproduction: 10
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
+proxy: false
+type: multiple-sites
